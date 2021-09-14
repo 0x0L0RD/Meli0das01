@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meli0das01
-- 👀 I’m interested in stealth and malware technology.
+- Hi, I’m @Meli0das01
+- I’m interested in stealth and malware technology.
 - I do not condone exploiting innocent users with technical know-how, however.
 - I believe this technology could be used ethically.
